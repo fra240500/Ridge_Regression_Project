@@ -8,11 +8,11 @@ The project involves the implementation of **Ridge Regression**, which is a Line
 The repository contains the following files and folders:
 
 - **'Ridge Regression Project.ipynb'**: The Jupyter notebook containing the entire project code, including the implementation of Ridge Regression and result analysis.
-- **'report.pdf'**: The final project report, including a detailed description of the problem, methodology, results, and conclusions.
+- **'Report.pdf'**: The final project report, including a detailed description of the problem, methodology, results, and conclusions.
 - **'Experimental projects guidelines.pdf'**: Guidelines provided for the experimental project.
 - **'Dataset Description.pdf'**: Description of the variables in the dataset used.
 - **'dataset.csv'**: The dataset used for analysis and modeling.
-- **'images/'**: A folder containing the graphs generated during data analysis and saved directly from the Python code.
+- **'images'**: A folder containing the graphs generated during data analysis and saved directly from the Python code.
 
 ## Requirements
 To run the Jupyter notebook and reproduce the project results, the following requirements are needed:
