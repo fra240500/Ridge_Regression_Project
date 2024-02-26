@@ -18,6 +18,3 @@ The repository contains the following files and folders:
 To run the Jupyter notebook and reproduce the project results, the following requirements are needed:
 
 - Python or Jupyter Notebook, with this libraries: numpy, pandas, scikit-learn, matplotlib, seaborn.
-
-## License
-This project is released under the MIT License.
